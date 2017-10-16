@@ -12,6 +12,8 @@ namespace Test3
         {
             Console.WriteLine("Test 01");
             Console.WriteLine("Test 02");
+            Console.WriteLine("Test 03");
         }
     }
 }
+
